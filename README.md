@@ -1,6 +1,7 @@
- Hi there, I'm Srushti Shobhane 👋
-
-🚀 Actively seeking full-time opportunities in Cloud Engineering, System Engineer, Data Analytics and Machine Learning  domains.
+<p align="center">
+  <strong><span style="font-size: 24px;">Hi there, I'm Srushti Shobhane 👋</span></strong>
+</p>
+**🚀 Actively seeking full-time opportunities in Cloud Engineering, System Engineer, Data Analytics and Machine Learning  domains.**
 
 💡 Expertise in Azure, AWS, Python, SQL, Machine Learning, Deep Learning, Data Engineering and Data Science.
 

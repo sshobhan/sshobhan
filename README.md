@@ -8,15 +8,15 @@
 
 📫 Reach out to me at sshobhan@syr.edu.
 
-Work Experience:
+**Work Experience:**
 
-iConsult – Internship from August 2024 at Syracuse, NY
+**iConsult** – Internship from August 2024 at Syracuse, NY
 
-LTIMindtree – Fulltime from Dec 2019 to July 2023 at Mumbai, India
+**LTIMindtree** – Fulltime from Dec 2019 to July 2023 at Mumbai, India
 
-Connect with me:
+**Connect with me:**
 (https://www.linkedin.com/in/srushti-shobhane) 
 
-Languages and Tools:
+**Languages and Tools:**
 aws azure c  cplusplus docker elasticsearch gcp git hadoop hive kafka mongodb mssql mysql opencv pandas postgresql python pytorch redis scikit_learn seaborn tensorflow Power Bi tableau
 

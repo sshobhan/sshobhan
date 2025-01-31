@@ -7,6 +7,7 @@
 📫 Reach out to me at sshobhan@syr.edu.
 
 Work Experience:
+
 iConsult – Internship from August 2024 at Syracuse, NY
 
 LTIMindtree – Fulltime from Dec 2019 to July 2023 at Mumbai, India

@@ -1,5 +1,5 @@
 <p align="center">
-  <strong><span style="font-size: 34px;">Hi there, I'm Srushti Shobhane 👋</span></strong>
+  <strong><span style="font-size: 44px;">Hi there, I'm Srushti Shobhane 👋</span></strong>
 </p>
 
 **🚀 Actively seeking full-time opportunities in Cloud Engineering, System Engineer, Data Analytics and Machine Learning  domains.**

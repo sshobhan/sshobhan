@@ -6,7 +6,7 @@
 
 💡 Expertise in Azure, AWS, Python, SQL, Machine Learning, Deep Learning, Data Engineering and Data Science.
 
-📫 Reach out to me at sshobhan@syr.edu.
+📫 Reach out to me at s29shobhane@gmail.com.
 
 **Work Experience:**
 

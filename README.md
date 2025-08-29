@@ -18,5 +18,5 @@
 (https://www.linkedin.com/in/srushti-shobhane) 
 
 **Languages and Tools:**
-aws azure c  cplusplus docker elasticsearch gcp git hadoop hive kafka mongodb mssql mysql opencv pandas postgresql python pytorch redis scikit_learn seaborn tensorflow Power Bi tableau
+aws azure c  c++ docker elasticsearch gcp git hadoop hive kafka mongodb mssql mysql opencv pandas postgresql python pytorch redis scikit_learn seaborn tensorflow Power Bi tableau
 
